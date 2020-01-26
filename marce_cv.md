@@ -1,28 +1,28 @@
-*CV template adapted from* [S.
-Miller](https://github.com/svmiller/svm-r-markdown-templates)
+* Plantilla de CV adaptada de * [S. Miller] ( https://github.com/svmiller/svm-r-markdown-templates)
 
-[PDF version
-available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
-Education
-=========
+[Versión en PDF disponible] ( https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
-**Ph.D., Natural Resource Sciences, Specialization Applied Ecology**
-2015 - 19  
-School of Natural Resources, University of Nebraska-Lincoln, Nebrasaka
-USA
 
-<!-- - Dissertation: Regime Detection Methods for the Practical Ecologist -->
-<!-- - Prestigious funded summer research sabbatical at IIASA in Laxenburg, Austria  -->
-<!-- - Recipient of 2 university-wide fellowships  and Meritorious Doctoral Student award  -->
-**M.Sc., Wildlife Ecology & Conservation** 2013 - 15  
-Department of Wildlife Ecology & Conservation, University of Florida,
-Florida USA
+Educación == ==  == == =                                                                                                  
 
-<!-- - Thesis: House Sparrow *(Passer domesticus)* decline and distribution in North America  -->
-**B.Sc. Wildlife Ecology & Conservation** 2010 - 13  
-Department of Wildlife Ecology & Conservation, University of Florida,
-Florida USA
+
+** Doctorado, Ciencias de Recursos Naturales, Especialización en Ecología Aplicada ** 2015 - 19 Escuela de Recursos Naturales, Universidad de Nebraska-Lincoln, Nebrasaka, EE. UU.
+
+
+
+
+<! - - Disertación: Métodos de detección de regímenes para el ecólogo práctico -> <! - - Prestigiosa investigación de verano financiada durante el año sabático en IIASA en Laxenburg, Austria -> <! - - Destinatario de 2 becas universitarias y premio de estudiante de doctorado meritorio -> ** M.Sc., Wildlife Ecology & Conservation ** 2013 - 15 Department of Wildlife Ecology & Conservation, University of Florida, Florida USA
+
+
+
+
+
+
+<! - - Tesis: Gorrión * (Passer domesticus) * disminución y distribución en América del Norte ->
+** B.Sc. Wildlife Ecology & Conservation ** 2010 - 13   Departamento de Ecología y Conservación de la Vida Silvestre, Universidad de Florida, Florida , EE. UU.
+
+
 
 <!-- - Undergraduate research thesis published (avian playback methodology) -->
 <!-- - Internship with the Florida Wildlife Research Institute (GIS analyst) -->
@@ -159,7 +159,7 @@ Publications
 
 9.  C.R. Allen, H.E. Birge, S.L. Bartlet-Hunt, R.A. Bevans, **J.L.
     Burnett**, B.A. Cosens, X. Cai, A.S. Garmestani, I. Linkov, E.A.
-    Scott, M.D. Solomon, and D.R. Uden. 2016. Avoiding decline:
+    Scott, M.D. Solomon, and D.R. Uden. 2016. Avoiding decline:
     Fostering resilience and sustainability in midsize cities.
     *Sustainability* 8(9):844-868
     <a href="DOI:10.3390/su8090844" class="uri">DOI:10.3390/su8090844</a>
@@ -175,7 +175,7 @@ Book Chapters
 1.  **Burnett, J.L.** and C.R. Allen (2020) Continental Analysis of
     Invasive Birds: North America *in* Downs, C.T. and Hart, L.A. (eds)
     Global trends and impacts of alien invasive birds. CABI,
-    Wallingford, U.K., pp. XX-XX.
+    Wallingford, U.K., pp. XX-XX.
 
 Manuscripts Under Review (primary author)
 =========================================
@@ -444,7 +444,7 @@ contributed
 
 15. **Burnett, J.L.** and Sieving, K.E. Do actual and perceived risks of
     small forest birds align? *Florida Ornithological Society
-    Conference, Oral presentation*, St. Petersburg, FL, 2013
+    Conference, Oral presentation*, St. Petersburg, FL, 2013
 
 16. **Burnett, J.L.** and Sieving, K.E. Perceived predation risks of
     small forest birds. *Association of Field Ornithologists Annual
@@ -551,11 +551,14 @@ White Papers
 Grant Reports
 -------------
 
-1.  Allen, C.R., Angeler, D.G., Twidwell, D., **Burnett, J.L.**,
-    Roberts, C.P. 2017. Interim Report (RC 25-10): Global Change,
-    Vulnerability, and Resilience: Management Options for an Uncertain
-    Future. Strategic Environmental Research and Development Program
-    (SERDP), Department of Defense.  
-2.  Twidwell D., Bielski, C.H., **Burnett, J.L.**, Donovan, V.M.,
-    Wonkka, C.L. 2017. Review of LANDFIRE Biophysical Settings Models
-    (BpS) in the Great Plains. LANDFIRE Project.
+1. Allen, CR, Angeler, DG, Twidwell, D., ** Burnett, JL ** ,     Roberts, CP 2017. Informe provisional (RC 25-10): Cambio global,     vulnerabilidad y resiliencia: opciones de gestión para una incertidumbre     Futuro. Programa Estratégico de Investigación y Desarrollo Ambiental     (SERDP), Departamento de Defensa.  2. Twidwell D., Bielski, CH, ** Burnett, JL ** , Donovan, VM,     Wonkka, CL 2017. Revisión de modelos de ajustes biofísicos     (BpS) de LANDFIRE en las Grandes Llanuras. Proyecto Landfire.
+
+
+
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1MDA1MTkyN119
+-->
