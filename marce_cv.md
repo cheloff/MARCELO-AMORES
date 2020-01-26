@@ -4,7 +4,7 @@
 #[Versión en PDF disponible] ( https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
 
-Educación == ==  == == =                                                                                                  
+Educación == ==  == == =                                                                                                     
 
 
 ** Doctorado, Ciencias de Recursos Naturales, Especialización en Ecología Aplicada ** 2015 - 19 Escuela de Recursos Naturales, Universidad de Nebraska-Lincoln, Nebrasaka, EE. UU.
@@ -19,8 +19,8 @@ Educación == ==  == == =
 
 
 
-<! - - Tesis: Gorrión * (Passer domesticus) * disminución y distribución en América del Norte ->
-** B.Sc. Wildlife Ecology & Conservation ** 2010 - 13   Departamento de Ecología y Conservación de la Vida Silvestre, Universidad de Florida, Florida , EE. UU.
+<! - - Tesis: Gorrión * (Passer domesticus) * disminución y distribución en América del Norte -> ** B.Sc. Wildlife Ecology & Conservation ** 2010 - 13 Departamento de Ecología y Conservación de la Vida Silvestre, Universidad de Florida, Florida, EE. UU. UU.
+
 
 
 
@@ -560,5 +560,5 @@ Grant Reports
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTk0MzMzXX0=
+eyJoaXN0b3J5IjpbMTkzMDM5ODUzOSwxNDMxOTQzMzNdfQ==
 -->
