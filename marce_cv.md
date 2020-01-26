@@ -1,7 +1,7 @@
-* Plantilla de CV adaptada de * [S. Miller] ( https://github.com/svmiller/svm-r-markdown-templates)
+#* Plantilla de CV adaptada de * [S. Miller] ( https://github.com/svmiller/svm-r-markdown-templates)
 
 
-[Versión en PDF disponible] ( https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+#[Versión en PDF disponible] ( https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
 
 
 Educación == ==  == == =                                                                                                  
@@ -560,5 +560,5 @@ Grant Reports
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDA1MTkyN119
+eyJoaXN0b3J5IjpbMTQzMTk0MzMzXX0=
 -->
