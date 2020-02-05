@@ -1,8 +1,335 @@
-*CV template adapted from* [S.
-Miller](https://github.com/svmiller/svm-r-markdown-templates)
+---
+output:
+  word_document: default
+  html_document: default
+---
 
-[PDF version
-available](https://github.com/TrashBirdEcology/cv/blob/master/burnett_extendedCV.pdf)
+# Instrucción Formal  
+
+1. **Ingeniero en Medio Ambiente** \hfill 2014 - 2019  
+No. Reg. SENESCYT: 1020-2019-2117042
+
+Facultad de Ciencias Agropecuarias y Recursos Naturales - CAREN, Universidad Técnica de Cotopaxi, Latacunga - Ecuador. ***Mejor Graduado de la Carrera de Ingeniería Ambiental***
+
+2. **Bachiller en Ciencias Qúimico Biológicas** 
+
+Unidad Educativa Marco Aurelio Subía Martínez, Latacunga - Ecuador. ***Abanderado del Pabellón Nacional***
+
+Unidad Educativa Toacazo, Latacunga - Ecuador.  ***Abanderado del Pabellón Nacional***
+
+
+
+# Experiencia Profesional
+
+## Tesista
+**Empresa Pública Metropolitana de Agua Potable y Saneamiento - EPMAPS &** 
+**Fondo para la Protección del Agua - FONAG** 
+
+Distrito Metropolitano de Quito - Ecuador \hfill ago 2018 - ago 2019 (1 año)
+
+1. Análisis de información de calidad de agua de las fuentes de captación que abastecen a los diferentes sistemas de agua potable del Distrito Metropolitano de Quito \hfill
+1. Análisis de información hidrometeorológica de las zonas de interés de la EPMAPS \hfill
+1. Elaboración de informes técnicos de recursos hídricos.
+
+
+## Investigador
+**Estación Científica Agua y Páramo. Empresa Pública Metropolitana de Agua Potable y Saneamiento, Fondo para la Protección del Agua &** 
+**Universidad Técnica de Cotopaxi, Facultad CAREN, Carrera de Ingeniería Ambiental** 
+
+\hfill jun 2018 - ago 2019 (1 año y 3 meses)
+
+**Amores M.** 2019. “Evaluación de la variación de la calidad del agua en alta del río Pita” Facultad de Ciencias Agropecuarias y Recursos Naturales; Carrera de Ingeniería Ambiental
+
+
+## Voluntario
+
+**Programa de vinculación con la comunidad. Universidad Técnica de Cotopaxi** 
+
+Latacunga - Ecuador \hfill sep 2017 - mar 2018 (6 meses)
+
+1. Propuesta de repotenciación de turismo ecológico en la cara sur del volcán Cotopaxi. \hfill
+1. Reforestación del sendero de ingreso la cara sur del volcán Cotopaxi. \hfill
+1. Capacitación en manejo de residuos sólidos \hfill
+
+## Conferencias
+
+**Gobierno Autónomo Descentralizado de la  Provincia de Cotopaxi. Universidad Técnica de Cotopaxi** 
+
+Latacunga - Ecuador \hfill 26 nov 2019
+
+- Gestión de los Recursos Hídricos como estrategia de adaptación al cambio climático.
+
+## Ponencias
+
+**I Jornada de Difusión de la Investigación Ambiental. Universidad Técnica de Cotopaxi, Carrera de Ingeiería Ambiental** 
+
+Latacunga - Ecuador \hfill 15 - 17 jul 2019
+
+- Ponencia: “Evaluación de la variación de la calidad del agua en alta del río Pita”
+
+
+# Capacitaciones
+
+## Seminarios
+
+**Seminario Nacional Ambiental** 
+
+Latacunga - Ecuador \hfill abr 2018 (16 horas)
+
+* Universidad Técnica de Cotopaxi
+* Gobierno Autónomo Descentralizado de la  Provincia de Cotopaxi
+
+
+**III Seminario Científico Internacional de Cooperación Universitaria para el Desarrollo Sostenible** 
+
+Latacunga - Ecuador \hfill nov 2017 (40 horas)
+
+* Universidad Técnica de Cotopaxi
+* Casa de la Cultura Núcleo de Cotopaxi
+* Red Iberoamericana de Medio Ambiente
+* Ecuador Conventions
+* Centro Ecuatoriano para el Desarrollo Sostenible
+
+
+**Agroecología** 
+
+Latacunga - Ecuador \hfill abr - ago 2017 (50 horas)
+
+* Universidad Técnica de Cotopaxi. Facultad CAREN, Carrera de Ingeniería Ambiental
+
+
+**Desastres Naturales** 
+
+Latacunga - Ecuador \hfill oct 2016 - mar 2017 (50 horas)
+
+* Universidad Técnica de Cotopaxi. Facultad CAREN, Carrera de Ingeniería Ambiental
+
+
+## Diplomados
+
+**Diplomado en Desarrollo de Estrategias Digitales de Aprendizaje** 
+
+México, Online \hfill 2015 - 2017 (369 horas)
+
+Horas equivalentes a 37 créditos académicos correspondientes al nivel 6 del Marco Mexicano de Cualificaciones
+
+- Sistema Educativo Nacional
+- La Dirección General de Televisión Educativa 
+- Centro de Capacitación Televisiva
+- Impartido por el Centro de Capacitación Televisiva y la Fundación Carlos Slim a través de la plataforma Capacítate para el Empleo
+
+**Diplomado en Técnico en Integridad Web** 
+
+México, Online \hfill 2015 - 2017 (273 horas)
+
+Horas equivalentes a 27 créditos académicos correspondientes al nivel 6 del Marco Mexicano de Cualificaciones
+
+- Sistema Educativo Nacional
+- La Dirección General de Televisión Educativa 
+- Centro de Capacitación Televisiva
+- Impartido por el Centro de Capacitación Televisiva y la Fundación Carlos Slim a través de la plataforma Capacítate para el Empleo
+
+**Diplomado Técnico en Big Data** 
+
+México, Online \hfill 2019
+
+(Diploma en proceso de entrega)
+
+- Sistema Educativo Nacional
+- La Dirección General de Televisión Educativa 
+- Centro de Capacitación Televisiva
+- Impartido por el Centro de Capacitación Televisiva y la Fundación Carlos Slim a través de la plataforma Capacítate para el Empleo
+
+**Diplomado en Gestión de Ambientes Virtuales de Aprendizaje** 
+
+México, Online \hfill 2019
+
+(Diploma en proceso de entrega)
+
+- Sistema Educativo Nacional
+- La Dirección General de Televisión Educativa 
+- Centro de Capacitación Televisiva
+- Impartido por el Centro de Capacitación Televisiva y la Fundación Carlos Slim a través de la plataforma Capacítate para el Empleo
+
+**Diplomado en Desarrollo de sitios web y aplicaciones móviles** 
+
+México, Online \hfill 2019
+
+(Diploma en proceso de entrega)
+
+- Sistema Educativo Nacional
+- La Dirección General de Televisión Educativa 
+- Centro de Capacitación Televisiva
+- Impartido por el Centro de Capacitación Televisiva y la Fundación Carlos Slim a través de la plataforma Capacítate para el Empleo
+
+
+## Certificaciones
+
+**Competencias digitales para profesionales** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+Fundación Santa María La Real
+
+
+**Comercio electrónico. E-Commerce** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+EOI - Escuela de Organización Industrial
+
+
+**Transformación digital para el empleo** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+EOI - Escuela de Organización Industrial
+
+
+**Cloud Computing** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+EOI - Escuela de Organización Industrial
+
+
+**Desarrollo de Apps Móviles** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+UCM - Universidad Complutense de Madrid
+
+
+**Introducción al Desarrollo Web: HTML y CSS II** 
+
+Online --  Google Activate \hfill Sep 2019 (40 horas)
+
+Instituto de Economía Internacional. Universidad de Alicante - España
+
+
+**Capacitación a los sujetos de control en planes de manejo ambiental, planes de acción, planes de emergencia, informes de cumplimiento, y auditorías en el cantón Latacunga, enfocado en la educación sobre los problemas de cambio climático** 
+
+Latacunga - Ecuador \hfill Nov 2018 (8 horas)
+
+Gobierno Autónomo Descentralizado de la  Provincia de Cotopaxi
+
+
+**Introducción al Cambio Climático** 
+
+Online -- UN CC:LEARN \hfill Feb 2017 (12 horas)
+
+United Nations institute for Training and Research UNITAR
+
+Asosiación para el Aprendizaje sobre el Cambio Climático
+
+
+**Módulo especializado sobre la Salud Humana y el Cambio Climático** 
+
+Online -- UN CC:LEARN \hfill Feb 2017 (2 horas)
+
+United Nations Institute for Training an Research UNITAR
+
+Asosiación para el Aprendizaje sobre el Cambio Climático, Organización Mundial de la Salud OMS
+
+
+**Productividad Personal** 
+
+Online --  Google Activate \hfill Feb 2017 (40 horas)
+
+Fundación Santa María La Real
+
+
+**Curso de Introducción al Desarrollo Web: HTML y CSS I** 
+
+Online --  Google Activate \hfill Ene 2017 (40 horas)
+
+Instituto de Economía Internacional. Universidad de Alicante - España
+
+
+## Talleres
+
+
+**Ciencia aplicada a la toma de desiciones de gestores de agua** 
+
+Quito - Ecuador \hfill Jul 2019
+
+Instituto Francés de Investigación para el Desarrollo  (IRD)
+
+Pontificia Universidad Católica de Quito (PUCE)
+
+Empresa Pública Metropolitana de Agua Potable y Saneamiento (EPMAPS)
+
+**Fondo para la Protección del Agua (FONAG)
+
+
+**Curso - taller: Sistemas de Información Geográfica para la planificación ordenamiento del territorio** 
+
+Latacunga - Ecuador \hfill Nov 2017 (40 horas)
+
+Universidad Técnica de Cotopaxi
+
+Red Iberoamericana de Medio Ambiente
+
+Ecuador Conventions
+
+
+
+# Reconocimiemtos
+
+**Mejor Graduado de la Carrera de Ingeniería Ambiental**
+
+Facultad de Ciencias Agropecuarias y Recursos Naturales - CAREN, Universidad Técnica de Cotopaxi
+
+Latacunga - Ecuador \hfill 2019
+
+**Beca al mérito academico**
+
+Carrera de Ingeniería Ambiental. Facultad de Ciencias Agropecuarias y Recursos Naturales - CAREN, Universidad Técnica de Cotopaxi
+
+Latacunga - Ecuador \hfill 2014 - 2019
+
+
+**Abanderado del Pabellón Nacional. Secundaria**
+
+Unidad Educativa Marco Aurelio Subía Martínez 
+
+Tanicuchí - Latacunga - Ecuador \hfill 2012 - 2013
+
+ 
+**Mejor estudiante de la asignatura de Inglés**
+
+Unidad Educativa Marco Aurelio Subía Martínez
+
+Tanicuchí - Latacunga - Ecuador \hfill 2007 - 2013
+
+
+**Abanderado del Pabellón Nacional. Primaria**
+
+Unidad Educativa Toacazo, Latacunga - Ecuador
+
+Toacaso - Latacunga - Ecuador \hfill 2006 - 2007
+
+
+
+# Referencias
+
+## Profesionales
+
+**M.Sc. Kalina Fonseca.** Tutora de tesis de pregrado. Universidad Técnica de Cotopaxi. Docente de la carrera de ingeniería Ambiental. Coordinadora de Proyecto de Investigación  "Recursos Hídricos - Calidad de agua". 
+
+kalina.fonseca\@utc.edu.ec \hfill 0 996 267 102
+
+
+**Ph.D. Mercy Ilbay.** Coautora de tesis de pregrado. Universidad Técnica de Cotopaxi. Docente de la carrera de ingeniería Ambiental.
+
+mercy.ilbay\@utc.edu.ec \hfill 0 987 533 861
+
+
+**M.Sc. Darwin Bohórquez.** Tutor institucional de pasantía y tesis de pregrado. Empresa Pública Metropolitana de Agua Potable y Saneamiento. Departamento de Gestión de Recursos Hídricos. Jefe de la Unidad de Manejo de Cuencas Hidrográficas y Limnología
+
+darwin.bohorquez\@aguaquito.gob.ec \hfill 022 994 400 Ext. 6013
+
+
 
 Education
 =========
