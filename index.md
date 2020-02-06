@@ -62,7 +62,7 @@ Ponencia: “Evaluación de la variación de la calidad del agua en alta del rí
 Capacitacioes
 ===============
 Seminarios
------------------
+---------
 **Seminario Nacional Ambiental**  
 Latacunga - Ecuador   abr 2018 (16 horas) 
 Universidad Técnica de Cotopaxi. 
@@ -238,7 +238,8 @@ Toacaso - Latacunga - Ecuador   2006 - 2007
 Habilidades
 ========
 Digitales
--------
+--------
+
 **Lenguajes:** R, Python, HTML, CSS, MySQL, Markdown, \LaTeX
 
 **Programas Estadísticos:** SPSS, InfoStat, Past, Statistica
