@@ -61,6 +61,7 @@ Ponencia: “Evaluación de la variación de la calidad del agua en alta del rí
 
 Capacitacioes
 ===============
+
 Seminarios
 ---------
 **Seminario Nacional Ambiental**  
@@ -237,6 +238,7 @@ Toacaso - Latacunga - Ecuador   2006 - 2007
 
 Habilidades
 ========
+
 Digitales
 --------
 
