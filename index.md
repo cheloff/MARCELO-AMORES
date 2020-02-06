@@ -1,9 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
 Instrucción Formal  
 ==================
 **Ingeniero en Medio Ambiente**
