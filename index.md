@@ -14,6 +14,7 @@ Facultad de Ciencias Agropecuarias y Recursos Naturales - CAREN. Universidad Té
 
 **Bachiller en Ciencias Qúimico Biológicas** 
 Unidad Educativa Marco Aurelio Subía Martínez. Latacunga - Ecuador. 
+
 ***Abanderado del Pabellón Nacional***
 Unidad Educativa Toacazo. Latacunga - Ecuador.  
 ***Abanderado del Pabellón Nacional***
