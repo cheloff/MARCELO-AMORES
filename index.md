@@ -11,11 +11,10 @@ Instrucción Formal
 No. Reg. SENESCYT: 1020-2019-2117042
 Facultad de Ciencias Agropecuarias y Recursos Naturales - CAREN. Universidad Técnica de Cotopaxi. Latacunga - Ecuador. ***Mejor Graduado de la Carrera de Ingeniería Ambiental***
 
-
 **Bachiller en Ciencias Qúimico Biológicas** 
 Unidad Educativa Marco Aurelio Subía Martínez. Latacunga - Ecuador. 
-
 ***Abanderado del Pabellón Nacional***
+
 Unidad Educativa Toacazo. Latacunga - Ecuador.  
 ***Abanderado del Pabellón Nacional***
 
