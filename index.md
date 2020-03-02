@@ -15,6 +15,14 @@ Unidad Educativa Toacazo. Latacunga - Ecuador.
 Experiencia Profesional
 =================
 
+
+## Investigador - Consultor
+**Freelance**
+Latacunga - Ecuador ago 2019 - actualidad (7 meses)
+Desarrollo de investigación y divulgación de ciencia aplicada a recursos hidricos y cambio climático
+Asesoría en gestión ambiental y manejo de recursos hídricos
+
+
 Tesista
 ------------------
 **Empresa Pública Metropolitana de Agua Potable y Saneamiento - EPMAPS**  
