@@ -1,3 +1,6 @@
+Ambientólogo y ambientalista, eterno comprometido con la conservación del planeta a nivel físico y biológico, consonante con el desarrollo social. Experiencia en investigación, asesoría y capacitación en las áreas de recursos hídricos y agroecología. Investigador para el Fondo para la Protección del Agua (FONAG) y la Empresa Pública Metropolitana de Agua Potable y Saneamiento de Quito (EPMAPS), en el proyecto: “Evaluación de la variación de la calidad del agua en la cuenca alta del río Pita” con el auspicio de la Estación Científica Agua y Páramo (ECAP). Paralelamente colaboré en el Departamento de Gestión de Recursos Hídricos de la EPMAPS. Voluntario en el programa de vinculación social de mi universidad, en agroecología, ecoturismo y gestión de residuos. Actualmente realizo actividades de investigación y asesoría ambiental de manera independiente. Intento mejorarme cada día para poder servir mejor a la sociedad, por lo que me ilusiona poder aportar desde espacios de mayor impacto.
+
+
 Instrucción Formal  
 ==================
 **Ingeniero en Medio Ambiente**
@@ -20,8 +23,7 @@ Experiencia Profesional
 **Freelance**
 Latacunga - Ecuador ago 2019 - actualidad (7 meses)
 Desarrollo de investigación y divulgación de ciencia aplicada a recursos hidricos y cambio climático
-Asesoría en gestión ambiental y manejo de recursos hídricos
-
+Asesoría en gestión ambiental, agricultura sostenible y manejo de recursos hídricos
 
 Tesista
 ------------------
